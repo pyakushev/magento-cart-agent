@@ -1,0 +1,9 @@
+# One URL per line. Blank lines and lines starting with '#' are ignored.
+# A line without a scheme is normalized to https:// (e.g. raumluft-shop.de).
+
+rupp-onlineshop.de
+samenfest.de
+schmuckshopping.de
+senso-care.de
+schoen-und-wieder.de
+semilac.de

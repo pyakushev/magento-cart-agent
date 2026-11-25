@@ -1,0 +1,4 @@
+browser-use==1.0.6
+python-dotenv==1.2.4
+playwright==1.65.2
+# After install: `playwright install chromium` (or use the installed Chrome/Edge with --channel chrome|msedge).

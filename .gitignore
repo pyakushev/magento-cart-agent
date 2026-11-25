@@ -1,0 +1,24 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Run artifacts
+checkout_screenshots/
+results*.json
+magento_cart_agent.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Local tooling state
+.uv-cache/
+.playwright-browsers/
+userdata/
+.scratch/
+.browser-harness/
